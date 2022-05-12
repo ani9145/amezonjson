@@ -1,0 +1,19 @@
+{
+  "name": "amezonjson",
+  "version": "1.0.0",
+  "description": "amezonjson",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ani9145/amezonjson.git"
+  },
+  "keywords": [],
+  "author": "aniket",
+  "license": "ISC",
+  "dependencies": {
+    "json-server":"^0.17.0"
+  }
+}
